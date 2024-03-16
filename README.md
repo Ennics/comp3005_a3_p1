@@ -27,10 +27,9 @@ This is a Python application that interacts with a PostgreSQL database to perfor
 
 To run the application, navigate to the ./app directory of this project and execute:
 
-
-    ```bash
-    python main.py
-    ```
+```
+python main.py
+```
 
 This will start the application, and you will be prompted with a menu to choose from different operations:
 
